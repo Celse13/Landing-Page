@@ -1,0 +1,193 @@
+.container-0 {
+    top: 0;
+    background-color: #1F2937;
+}
+.navigation-bar {
+    color: white;
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navigation ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navigation ul li {
+    margin-right: 8rem;
+  }
+  
+  .navigation-bar {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+  }
+  .header {
+    margin-left: 10rem
+  }
+
+.body-container {
+    display: flex;
+}
+
+
+
+
+
+
+
+.container-1 nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .container-0 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    padding: 20px 0;
+  }
+  
+  .image-logo {
+    max-width: 100%;
+    height: auto;
+  }
+  
+ 
+  
+  .body-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+  
+  .box {
+    flex-basis: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .name-website h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .name-website p {
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  .button-0 {
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .image-website img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .container-2 {
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .mac-image-types {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .mac-image-types img {
+    width: 200px;
+    height: auto;
+    margin: 0 10px;
+  }
+  
+  .customer {
+    padding: 40px 0;
+    text-align: center;
+    background-color: #f5f5f5;
+  }
+  
+  .customer p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .customer blockquote {
+    font-style: italic;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .customer cite {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .action {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .action p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .footer-content {
+    padding: 20px;
+    text-align: center;
+    background-color: #f5f5f5;
+  }
+  
+  .footer-content p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
